@@ -9,7 +9,7 @@
   font-size: 14px;
   font-weight: 600;
   cursor: pointer;
-  background-color: rgba(228, 147, 56, 0.384);
+  background-color: rgba(56, 228, 219, 0.384);
 }
 
 .item:not(:last-child) {
